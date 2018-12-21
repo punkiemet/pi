@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "hallo gebruiker, het is nu:"
+date '+%m-%d-%y'
+
+ 
+

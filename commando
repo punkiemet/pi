@@ -1,0 +1,3 @@
+#!bin/bash
+aantal=`wc -w  gisteren`
+echo "het bestand gisteren bevat $aantal woorden"

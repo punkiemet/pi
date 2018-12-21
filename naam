@@ -1,0 +1,3 @@
+#!/bin/bash
+naam="Aidan en Trevor"
+echo "hallo $naam, hoe gaat het met je?"
